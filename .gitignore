@@ -1,0 +1,16 @@
+# مجلدات وإعدادات Git
+.idea/
+.venv/
+__pycache__/
+
+# ملفات مؤقتة للمشروع
+*.pyc
+
+# مجلدات ومحتويات العرض التقديمي
+Presentation/
+موقع البريزينتيشن/
+
+# ملفات البيانات والملاحظات
+earthquake_layer.GeoJSON
+StoryTelling
+نصيحة
